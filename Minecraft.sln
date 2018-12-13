@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minecraft.Plugins", "Minecraft.Plugins.csproj", "{009439CB-C31B-1450-9108-F5426F3CD270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minecraft", "Minecraft.csproj", "{F26D4D04-1CD2-8395-E065-8CF1A65853BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minecraft.Editor.Plugins", "Minecraft.Editor.Plugins.csproj", "{D27A50CB-B339-2A59-8F7B-DA277577743E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{009439CB-C31B-1450-9108-F5426F3CD270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009439CB-C31B-1450-9108-F5426F3CD270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009439CB-C31B-1450-9108-F5426F3CD270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009439CB-C31B-1450-9108-F5426F3CD270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F26D4D04-1CD2-8395-E065-8CF1A65853BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26D4D04-1CD2-8395-E065-8CF1A65853BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26D4D04-1CD2-8395-E065-8CF1A65853BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26D4D04-1CD2-8395-E065-8CF1A65853BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D27A50CB-B339-2A59-8F7B-DA277577743E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27A50CB-B339-2A59-8F7B-DA277577743E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27A50CB-B339-2A59-8F7B-DA277577743E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27A50CB-B339-2A59-8F7B-DA277577743E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
