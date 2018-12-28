@@ -9,7 +9,8 @@
     * It has the cache for the last exit, clear the cache when restarting
     * Click on the item to exit the backpack, character  will holding the item and get up to twenty items at a time.
   * Left button to dig, right click to place items
->* Previews
+* Previews
+
 ![](https://github.com/agno3xzy/CSharp_MineCraft/tree/finalversion/Previews/preview1.png)  
 ![](https://github.com/agno3xzy/CSharp_MineCraft/tree/finalversion/Previews/preview2.png)  
 ![](https://github.com/agno3xzy/CSharp_MineCraft/tree/finalversion/Previews/preview3.png)  
@@ -18,5 +19,3 @@
 ![](https://github.com/agno3xzy/CSharp_MineCraft/tree/finalversion/Previews/preview6.png)  
 ![](https://github.com/agno3xzy/CSharp_MineCraft/tree/finalversion/Previews/preview7.png)  
 ![](https://github.com/agno3xzy/CSharp_MineCraft/tree/finalversion/Previews/preview8.png)  
- 
-
